@@ -1,4 +1,21 @@
-# <img alt="Check Point" src="logo.svg" width="32" /> CloudGuard Code Security
+<p>
+    <br/>
+    <br/>
+    <p align="center">
+    <a href="http://checkpoint.com"> 
+        <img alt="CheckPoint logo" src="./cp_logo.svg" width="90"/>
+    </a>
+    <a href="http://spectralops.io"> 
+        <img alt="SpectralOps logo" src="./spectral_logo.svg" width="300"/>
+    </a>
+    </p>
+    <p align="center">
+        <img src="https://github.com/spectralops/spectral-github-action/actions/workflows/main.yml/badge.svg"/>
+        <img src="https://img.shields.io/badge/license-MIT-brightgreen"/>
+    </p>
+</p>
+
+# CloudGuard Code Security
 Spectral is the shift-left solution of Check Point’s CloudGuard to provide the industry’s most comprehensive security platform from code to cloud. Spectral was built as a platform from the ground up to have a fantastic developer experience (DX). Spectral Scan is a single self-contained binary, that's easy to get and use.
 
 ## Example usage
