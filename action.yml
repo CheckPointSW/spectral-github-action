@@ -1,5 +1,5 @@
-name: "Spectral Scan"
-description: "Automated Secrets, Misconfiguration, and IaC Misconfiguration detection by SpectralOps"
+name: "CloudGuard Code Security Scan"
+description: "Automated Secrets, Misconfiguration, IaC Misconfiguration detection, and OSS by Check Point CloudGuard"
 inputs:
   spectral-dsn:
     description: "Your Spectral DSN"
